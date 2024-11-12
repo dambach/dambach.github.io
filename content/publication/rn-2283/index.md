@@ -6,7 +6,7 @@ authors:
 - D. Bachasson
 - H. Reyngoudt
 - S. Turk
-- .. Benveniste
+- O. Benveniste
 - J. Hogrel
 - P. Carlier
 date: 2017-None-01
